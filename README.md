@@ -17,7 +17,6 @@ A powerful AI-powered Telegram bot that integrates **Gemini AI**, **MongoDB**, a
 - **SerpAPI** (for web search)
 - **PyMuPDF (fitz)** (for PDF file processing)
 
-# 🔥 Usage  
 ## 📌 Commands & Functionalities  
 
 | Command            | Description                                      |
